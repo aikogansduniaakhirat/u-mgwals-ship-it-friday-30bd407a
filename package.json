@@ -1,0 +1,11 @@
+{
+  "name": "u-mgwals-ship-it-friday-30bd407a",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The Friday commit message an AI agent writes right before it breaks production, rendered from a record of the ship.",
+  "license": "MIT",
+  "scripts": {
+    "entry": "MAKEFUN_OUTPUT_DIR=out node main.ts"
+  }
+}
